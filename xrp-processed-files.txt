@@ -1,9 +1,0 @@
-/Users/nato/Repositories/xrp/xrpboleto/src/main/resources/B001_BoletoEstiloFatura.pdf
-/Users/nato/Downloads/teste-pdfs/1976_1_0003_001_00001.pdf
-/Users/nato/Downloads/teste-pdfs/1976_1_0003_001_00002.pdf
-/Users/nato/Downloads/teste-pdfs/1976_1_0003_002_00003.pdf
-/Users/nato/Downloads/teste-pdfs/1989_4_0031_019_0018572.pdf
-/Users/nato/Downloads/teste-pdfs/1989_4_0031_038_0018591.pdf
-/Users/nato/Downloads/teste-pdfs/1991_2_0032_001_0001.pdf
-/Users/nato/Downloads/teste-pdfs/1991_2_0032_002_0001.pdf
-/Users/nato/Downloads/teste-pdfs/1991_2_0032_003_0001.pdf
