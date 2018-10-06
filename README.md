@@ -1,4 +1,4 @@
-# xrpuploader
+# XrpUploader
 
 Para executar siga o procedimento abaixo:
 
