@@ -4,7 +4,7 @@ Para executar siga o procedimento abaixo:
 
 1. Instale o [Java](https://www.java.com/pt_BR/download/) se não tiver ele na sua máquina
 
-2. Copie o arquivo [XrpUploader.java](https://raw.githubusercontent.com/crivano/xrpuploader/master/src/br/com/xrp/uploader/XrpUploader.java) para o diretório onde estão os arquivos PDF
+2. Copie o arquivo [XrpUploader.java](https://raw.githubusercontent.com/crivano/xrpuploader/master/src/br/com/xrp/uploader/XrpUploader.java) para um diretório qualquer
 
 3. Abra o Prompt de Comando, vá até o diretório e execute: 
 ```
