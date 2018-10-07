@@ -13,7 +13,7 @@ javac XrpUploader.java
 
 4. Execute: 
 ```
-java XrpUploader *DIRETÓRIO* *URL*
+java XrpUploader DIRETÓRIO URL
 ```
 
 O primeiro parâmetro é o diretório onde se encontram os arquivos PDF. Subdiretórios também serão considerados.
