@@ -23,6 +23,8 @@ O segundo parâmetro é a URL que receberá os documentos, isso tem que ser obti
 A URL inclui uma indicação de quais campos serão identificados no nome do arquivo. 
 Por exemplo, um arquivo chamado 2018_12_01_01_17.pdf poderia ter seus campos identificados por "ANO,MES,DIA,LIVRO,PAGINA".
 
+Por padrão, os campos identificados no documento se tornam facetas para a busca textual. Caso se deseje criar um campo que não seja apresentado como uma faceta, basta precedê-lo com um _undescore_. Por exemplo: "ANO,MES,DIA,LIVRO,_PAGINA"
+
 ### Campos Especiais
 
 Alguns nomes de campos têm um significado especial para o XRP, conforme lista abaixo:
